@@ -5,4 +5,4 @@
 - 💬 Ask me about JavaScript, Binary Search, or LeetCode!
 
 ### 📊 My LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Atik_Saifullah&theme=dark)
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Atik_Saifullah&theme=dark)
