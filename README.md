@@ -5,6 +5,4 @@
 - 💬 Ask me about JavaScript, Binary Search, or LeetCode!
 
 ### 📊 My LeetCode Stats
-<a href="https://leetcode.com/Atik_Saifullah">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Atik_Saifullah&theme=dark" alt="LeetCode Stats" />
-</a>
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Atik_Saifullah&theme=dark)
