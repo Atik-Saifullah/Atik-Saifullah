@@ -1,4 +1,4 @@
-## Hi there 👋
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Atik_Saifullah)](https://leetcode.com/Atik_Saifullah)
 
 <!--
 **Atik-Saifullah/Atik-Saifullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
